@@ -9,3 +9,8 @@ p {
   position: relative;
   font-size: 18px;
 }
+.pull-ab {
+  display: flex;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
