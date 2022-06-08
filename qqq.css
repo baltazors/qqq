@@ -4,3 +4,8 @@
 p {
   font-size: 20px;
 }
+.block-qqq {
+  display: block;
+  position: relative;
+  font-size: 18px;
+}
